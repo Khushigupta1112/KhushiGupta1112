@@ -1,7 +1,3 @@
-## Hi, I'm Khushi Gupta 👋
-
-<!--
-**Khushigupta1112/KhushiGupta1112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <h1 align="center">Hi 👋, I'm Khushi Gupta</h1>
 <h3 align="center">Cloud Computing Student | Full Stack Developer | AWS Learner</h3>
