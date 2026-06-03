@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Khushi Gupta</h1>
 <h3 align="center">Cloud Computing Student | Full Stack Developer | AWS Learner</h3>
----
 
 ## 👩‍💻 About Me
 
