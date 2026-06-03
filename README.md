@@ -72,7 +72,7 @@ Oracle Database
 
 💼 LinkedIn: https://www.linkedin.com/in/khushigupta1112
 
-🌐 Portfolio: https://khushigupta1112.github.io/My_portfolio/](https://khushigupta1112.github.io/My-portfolio/)
+🌐 Portfolio: https://khushigupta1112.github.io/My-portfolio/
 
 
 
