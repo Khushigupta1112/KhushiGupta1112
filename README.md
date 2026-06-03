@@ -23,7 +23,7 @@
 ### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,javascript,python,c,cpp" />
+<img src="https://skillicons.dev/icons?i=java,javascript,python,c" />
 </p>
 
 ### Frontend Development
@@ -35,7 +35,7 @@
 ### Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs" />
 </p>
 
 ### Databases
