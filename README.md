@@ -16,7 +16,7 @@
 
 🚀 Looking for Software Development and Cloud Computing Internship Opportunities
 
----
+
 
 ## 🚀 Tech Stack
 
@@ -52,35 +52,6 @@ Oracle Database
 <img src="https://skillicons.dev/icons?i=aws,git,github,vscode" />
 </p>
 
----
-
-## 🏆 Featured Projects
-
-### 🍽️ Aahar – Food Donation App
-
-- Android application connecting food donors with people in need
-- Helps reduce food wastage and improve food accessibility
-- Built using Java, MySQL, and REST APIs
-
-### ☕ Kahani Cafe Management System
-
-- Complete cafe management application
-- Order management and billing system
-- Local data storage and responsive UI
-
-### ☁️ AWS Sentiment Analysis Project
-
-- Machine Learning based sentiment analysis
-- Implemented using AWS SageMaker
-- Analyzed customer reviews and feedback
-
-### 🌐 Personal Portfolio Website
-
-- Responsive personal portfolio
-- Showcases projects, skills, and achievements
-- Hosted using GitHub Pages
-
----
 
 ## 🏅 Certifications
 
@@ -92,7 +63,6 @@ Oracle Database
 
 ✔ Data Structures & Algorithms Training Certification
 
----
 
 ## 📊 GitHub Stats
 
@@ -108,7 +78,7 @@ Oracle Database
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushigupta1112&layout=compact&theme=tokyonight" />
 </p>
 
----
+
 ## 🤝 Connect With Me
 
 📧 Email: Khushiguptafbd@gmail.com
@@ -117,6 +87,6 @@ Oracle Database
 
 🌐 Portfolio: https://khushigupta1112.github.io/My_portfolio/
 
----
+
 
 ⭐ If you like my projects, feel free to explore my repositories and connect with me.
