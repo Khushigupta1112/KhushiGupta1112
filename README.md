@@ -64,19 +64,6 @@ Oracle Database
 ✔ Data Structures & Algorithms Training Certification
 
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=khushigupta1112&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=khushigupta1112&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushigupta1112&layout=compact&theme=tokyonight" />
-</p>
 
 
 ## 🤝 Connect With Me
