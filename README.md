@@ -1,11 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Khushi Gupta</h1>
 <h3 align="center">Cloud Computing Student | Full Stack Developer | AWS Learner</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=khushigupta1112&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
 ---
 
 ## 👩‍💻 About Me
@@ -16,7 +11,7 @@
 
 💻 Building Full-Stack Applications and Cloud-Based Projects
 
-📚 Solved 250+ DSA Problems on GeeksforGeeks and LeetCode
+📚 Solved 100+ DSA Problems on LeetCode and Hitbullseye
 
 🌱 Currently Learning AWS, React, System Design, and Advanced DSA
 
@@ -88,27 +83,15 @@ Oracle Database
 
 ---
 
-## 📈 Coding Profiles
-
-📌 GeeksforGeeks
-
-📌 LeetCode
-
-📌 HackerRank
-
-(Add your profile links here)
-
----
-
 ## 🏅 Certifications
 
 ✔ Oracle Database Certification
 
-✔ AWS Cloud & Machine Learning Projects
+✔ AWS Cloud & Machine Learning Certifications
 
-✔ Web Development Certifications
+✔ Web Development Certification
 
-✔ Data Structures & Algorithms Training
+✔ Data Structures & Algorithms Training Certification
 
 ---
 
@@ -127,26 +110,11 @@ Oracle Database
 </p>
 
 ---
-
-## 📌 Current Goals
-
-✅ Strengthen DSA and Problem Solving
-
-✅ Build Advanced React Projects
-
-✅ Learn AWS Cloud Services
-
-✅ Contribute to Open Source
-
-✅ Secure a Software Development Internship
-
----
-
 ## 🤝 Connect With Me
 
-📧 Email: your-email@gmail.com
+📧 Email: Khushiguptafbd@gmail.com
 
-💼 LinkedIn: https://linkedin.com/in/your-profile
+💼 LinkedIn: https://www.linkedin.com/in/khushigupta1112
 
 🌐 Portfolio: https://khushigupta1112.github.io/My_portfolio/
 
